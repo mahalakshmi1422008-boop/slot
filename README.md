@@ -1,5 +1,5 @@
 # Ex02 Time Table
-## Date:25/11/25
+## Date:27/11/25
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -52,58 +52,52 @@ Execute the program using runserver command.
       padding: 10px;
       text-align: center;
     }
-    th {
-      background: rgba(0, 38, 255, 0.573);
-    }
-    .highlight {
-      background: rgba(62, 169, 169, 0.281);
-    }
   </style>
 </head>
-    <img src="./logo.png" alt="Background Image" style="width:500px; margin-bottom:60px;">
-    <h2>SLOT TIME TABLE - mahalakshmi(25018377)</h2>
+    <img src="./logo.png" alt="Background Image" style="width:600px; margin-bottom:50px;">
+    <h2>SLOT TIME TABLE - Mahalakshmi(25018377)</h2>
   
-  <table bgcolor="yellow">
-    <tr>
+  <table>
+    <tr bgcolor="pink">
       <th>Day/Time</th>
       <th>Monday</th>
       <th>Tuesday</th>
       <th>Wednesday</th>
       <th>Thursday</th>
       <th>Friday</th>
-      <TH>Saturday</TH>
+      <th>Saturday</th>
     </tr>
-    <tr>
-      <td>8-10</td>
+    <tr bgcolor="cyan">
+      <td bgcolor="pink">8-10</td>
       <td colspan="2">CE</td>
       <td>WEB</td>
       <td>C PROGRAM</td>
       <td>FREE SLOT</td>
-      <TD>WEB</TD>
+      <TD>FWAD</TD>
        
      
     </tr>
-    <tr>
-      <td>10-12</td>
-      <td colspan="3" >WEB</td>
+    <tr bgcolor="cyan">
+      <td bgcolor="pink">10-12</td>
+      <td colspan="3">WEB</td>
       <td>C PROGRAM</td>
       <td>FREE SLOT</td>
       <td>CE</td>
     </tr>
-    <tr>
-      <td>12-1</td>
+    <tr bgcolor="cyan">
+      <td bgcolor="pink">12-1</td>
       <td colspan="6" >L U N C H</td>
     </tr>
-    <tr>
-      <td>1-3</td>
+    <tr bgcolor="cyan">
+      <td bgcolor="pink">1-3</td>
       <td >C PROGRAM</td>
       <td >FREE SLOT</td>
       <td >MENTOR</td>
       <td >CE</td>
       <td colspan="2">FREE SLOT</td>
     </tr>
-    <tr>
-      <td>3-5</td>
+    <tr bgcolor="cyan">
+      <td bgcolor="pink">3-5</td>
       <td colspan="2">FREE SLOT</td>
       <td >C PROGRAM</td>
       <td colspan="2">FREE SLOT</td>
@@ -125,12 +119,12 @@ Execute the program using runserver command.
     <tr>
       <td>2.</td>
       <td>19EN101</td>
-      <td>Communicative English</td>
+      <td>Communicative English(CE)</td>
     </tr>
     <tr>
       <td>3.</td>
       <td>19AI304</td>
-      <td>Fundamentals Of C Programming</td>
+      <td>Fundamentals Of C Programming(C PROGRAM)</td>
     </tr>
      
   </table>
@@ -139,7 +133,9 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-25 140846.png>)
+  
+![alt text](<Screenshot (31).png>)
+
 
 
 ## RESULT
