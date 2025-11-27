@@ -70,16 +70,16 @@ Execute the program using runserver command.
     <tr bgcolor="cyan">
       <td bgcolor="pink">8-10</td>
       <td colspan="2">CE</td>
-      <td>WEB</td>
+      <td>FWAD</td>
       <td>C PROGRAM</td>
       <td>FREE SLOT</td>
-      <TD>FWAD</TD>
+      <td>FWAD</td>
        
      
     </tr>
     <tr bgcolor="cyan">
       <td bgcolor="pink">10-12</td>
-      <td colspan="3">WEB</td>
+      <td colspan="3">FWAD</td>
       <td>C PROGRAM</td>
       <td>FREE SLOT</td>
       <td>CE</td>
@@ -133,8 +133,10 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-  
-![alt text](<Screenshot (31).png>)
+
+
+![alt text](<Screenshot (34).png>)
+
 
 
 
